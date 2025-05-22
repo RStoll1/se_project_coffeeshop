@@ -100,7 +100,8 @@
 
 .recipes {
   color: #fff;
-  background-color: #0a2750;
+  background: center / cover no-repeat #0a2750
+    url(/images/background_recipes.svg);
   padding: 100px 80px 215px;
 }
 
@@ -139,7 +140,7 @@
 }
 
 .recipes__iframe {
-  height: 273px;
-  width: 480px;
+  height: 315px;
+  width: 560px;
   border: 0;
 }
