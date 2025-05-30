@@ -1,7 +1,7 @@
 .recipes {
   color: #fff;
   background: center / cover no-repeat #0a2750
-    url(/images/background_recipes.svg);
+    url(../images/background_recipes.svg);
   padding: 100px 80px 215px;
 }
 
