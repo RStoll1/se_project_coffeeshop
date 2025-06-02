@@ -18,6 +18,9 @@
 
 .footer__column-heading {
   margin: 0 0 20px;
+  font-family: "Inter", "Arial", sans-serif;
+  font-size: 16px;
+  line-height: 20px;
 }
 
 .footer__list {
@@ -27,13 +30,6 @@
   display: flex;
   flex-direction: column;
   gap: 16px;
-}
-
-.footer__social-heading {
-  margin: 0;
-  font-weight: bold;
-  font-size: 16px;
-  line-height: 20px;
 }
 
 .footer__social-link {
